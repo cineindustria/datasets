@@ -12,8 +12,14 @@ class FilmSchoolsSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        page = response.url.split("/")[-2]
-        filename = 'FilmSchools-%s.html' % page
-        with open(filename, 'wb') as f:
-            f.write(response.body)
-        self.log('Saved file %s' % filename)
+          for school in response.xpath('//table/tr'):
+              yield {
+                  'school': school.xpath('td[1]/a/text()'),
+                  'location': school.xpath('td[2]/text()'),
+                  'country': school.xpath('td[3]/text()'),
+                  'control': school.xpath('td[4]/text()'),
+                  'type': school.xpath('td[5]/text()'),
+                  'enrollment': school.xpath('td[6]/text()'),
+                  'founded': school.xpath('td[7]/text()'),
+                  'cilect': school.xpath('td[8]/text()'),
+              }           
