@@ -12,14 +12,21 @@ class FilmSchoolsSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-          for school in response.xpath('//table/tr'):
-              yield {
-                  'school': school.xpath('td[1]/a/text()'),
-                  'location': school.xpath('td[2]/text()'),
-                  'country': school.xpath('td[3]/text()'),
-                  'control': school.xpath('td[4]/text()'),
-                  'type': school.xpath('td[5]/text()'),
-                  'enrollment': school.xpath('td[6]/text()'),
-                  'founded': school.xpath('td[7]/text()'),
-                  'cilect': school.xpath('td[8]/text()'),
-              }           
+        for region in response.css('table.sortable'):
+            school = self.parse_school(region)
+            yield {'region': school}
+
+    def parse_school(self, region):
+        school_list = []
+        for school in region.css('tr'):
+          school_list.append({
+            'name': school.css('td:nth-child(1) a::text, td:nth-child(1)::text').extract_first(),
+            'location': school.css('td:nth-child(2) a::text, td:nth-child(2)::text').extract_first(),
+            'country': school.css('td:nth-child(3) a::text, td:nth-child(3)::text').extract_first(),
+            'control': school.css('td:nth-child(4) a::text, td:nth-child(4)::text').extract_first(),
+            'type': school.css('td:nth-child(5) a::text, td:nth-child(5)::text').extract_first(),
+            'enrollment': school.css('td:nth-child(6) a::text, td:nth-child(6)::text').extract_first(),
+            'founded': school.css('td:nth-child(7) a::text, td:nth-child(7)::text').extract_first(),
+            'cilect': school.css('td:nth-child(8) a::text, td:nth-child(8)::text').extract_first(),
+          })
+        return school_list

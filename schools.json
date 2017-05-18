@@ -1,0 +1,922 @@
+[
+  {
+    "region": [
+      {
+        "control": "Public",
+        "founded": "1978",
+        "cilect": "Yes",
+        "name": "National Film and Television Institute",
+        "country": "Ghana",
+        "enrollment": null,
+        "type": null,
+        "location": "Accra"
+      },
+      {
+        "control": "Private",
+        "founded": "1993",
+        "cilect": "No",
+        "name": "Open Window Institute",
+        "country": "South Africa",
+        "enrollment": "800",
+        "type": "Bachelor of Film Arts",
+        "location": "Pretoria"
+      },
+      {
+        "control": "Private",
+        "founded": "1992",
+        "cilect": "Yes",
+        "name": "South African School of Motion Picture Medium and Live Performance",
+        "country": "South Africa",
+        "enrollment": "1100",
+        "type": "Baccalaureate college",
+        "location": "Johannesburg"
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "control": "Private",
+        "founded": "2004",
+        "cilect": "No",
+        "name": "Sydney Film School",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Special-focus institution",
+        "location": "Sydney"
+      },
+      {
+        "control": "Private",
+        "founded": "1981",
+        "cilect": "No",
+        "name": "Footscray City Films",
+        "country": "Australia",
+        "enrollment": "80",
+        "type": "Special-focus institution",
+        "location": "Melbourne"
+      },
+      {
+        "control": "Private",
+        "founded": "1983",
+        "cilect": "No",
+        "name": "MAPS Film School",
+        "country": "Australia",
+        "enrollment": "45",
+        "type": "Special-focus institution",
+        "location": "Adelaide"
+      },
+      {
+        "control": "Private",
+        "founded": "1971",
+        "cilect": "Yes",
+        "name": "Griffith Film School",
+        "country": "Australia",
+        "enrollment": "1000",
+        "type": "Baccalaureate college",
+        "location": "Brisbane"
+      },
+      {
+        "control": "Public",
+        "founded": "1853",
+        "cilect": "Yes",
+        "name": "University of Melbourne",
+        "country": "Australia",
+        "enrollment": "38,281",
+        "type": "Research university/VH",
+        "location": "Melbourne"
+      },
+      {
+        "control": "Public",
+        "founded": "1974",
+        "cilect": "No",
+        "name": "Deakin University",
+        "country": "Australia",
+        "enrollment": "52,000",
+        "type": "Research university/VH",
+        "location": "Melbourne"
+      },
+      {
+        "control": "Private",
+        "founded": "1973",
+        "cilect": "Yes",
+        "name": "Australian Film Television and Radio School",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Master's university",
+        "location": "Multiple"
+      },
+      {
+        "control": "Private",
+        "founded": "2009",
+        "cilect": "No",
+        "name": "RMIT School of Media and Communication",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Baccalaureate college",
+        "location": "Melbourne"
+      },
+      {
+        "control": "Private",
+        "founded": "1987",
+        "cilect": "No",
+        "name": "Bond University",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Baccalaureate college",
+        "location": "Gold Coast"
+      },
+      {
+        "control": "Private",
+        "founded": "1987",
+        "cilect": "No",
+        "name": "Film and Television Institute",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Baccalaureate college",
+        "location": "Fremantle"
+      },
+      {
+        "control": "Private",
+        "founded": "2005",
+        "cilect": "Yes",
+        "name": "WA Screen Academy",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Master's university",
+        "location": "Western Australia"
+      },
+      {
+        "control": "Private",
+        "founded": "1976",
+        "cilect": "No",
+        "name": "SAE Institute",
+        "country": "Australia",
+        "enrollment": null,
+        "type": "Special-focus institution",
+        "location": "Multiple"
+      },
+      {
+        "control": "Public",
+        "founded": "1909",
+        "cilect": "No",
+        "name": "University of Queensland",
+        "country": "Australia",
+        "enrollment": "46,826",
+        "type": "Research university/VH",
+        "location": "Brisbane"
+      },
+      {
+        "control": "Public University",
+        "founded": "1970",
+        "cilect": "No",
+        "name": "Jahangirnagar University",
+        "country": "Bangladesh",
+        "enrollment": "10,100",
+        "type": "Baccalaureate college",
+        "location": "Savar"
+      },
+      {
+        "control": "Film School",
+        "founded": "1950",
+        "cilect": "Yes",
+        "name": "Beijing Film Academy",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Beijing"
+      },
+      {
+        "control": "Public University",
+        "founded": "1949",
+        "cilect": "Yes",
+        "name": "Central Academy of Drama",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Beijing"
+      },
+      {
+        "control": "Public University",
+        "founded": "1954",
+        "cilect": "Yes",
+        "name": "Communications University of China",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Beijing"
+      },
+      {
+        "control": "Public University",
+        "founded": "1978",
+        "cilect": "Yes",
+        "name": "Zhejiang University of Media and Communications",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Hangzhou"
+      },
+      {
+        "control": "Public University",
+        "founded": "1994",
+        "cilect": "Yes",
+        "name": "Hong Kong Baptist University",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Hong Kong"
+      },
+      {
+        "control": "Public University",
+        "founded": "1984",
+        "cilect": "Yes",
+        "name": "Hong Kong Academy for Performing Arts",
+        "country": "China",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Hong Kong"
+      },
+      {
+        "control": "Film School",
+        "founded": "1995",
+        "cilect": "Yes",
+        "name": "Satyajit Ray Film and Television Institute",
+        "country": "India",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Kolkata"
+      },
+      {
+        "control": "Film School",
+        "founded": "1960",
+        "cilect": "Yes",
+        "name": "Film and Television Institute of India",
+        "country": "India",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Pune"
+      },
+      {
+        "control": "Film School",
+        "founded": "2006",
+        "cilect": "Yes",
+        "name": "Whistling Woods International",
+        "country": "India",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Mumbai"
+      },
+      {
+        "control": "Public University",
+        "founded": "2011",
+        "cilect": "No",
+        "name": "State Institute of Film and Television",
+        "country": "India",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Rohtak"
+      },
+      {
+        "control": "International School of Media",
+        "founded": "2011",
+        "cilect": "No",
+        "name": "Annapurna International School of Film + Media",
+        "country": "India",
+        "enrollment": null,
+        "type": "BA, MA and MMBA degrees",
+        "location": "Hyderabad"
+      },
+      {
+        "control": "Directorate of Technical Education",
+        "founded": "1943",
+        "cilect": "No",
+        "name": "Government Film and Television Institute",
+        "country": "India",
+        "enrollment": null,
+        "type": "Diploma",
+        "location": "Bangalore"
+      },
+      {
+        "control": "Film School",
+        "founded": "1950",
+        "cilect": "Yes",
+        "name": "Indonesia Institute of Arts",
+        "country": "Indonesia",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Yogyakarta"
+      },
+      {
+        "control": "Film School",
+        "founded": "1975",
+        "cilect": "Yes",
+        "name": "Japan Institute of the Moving Image",
+        "country": "Japan",
+        "enrollment": null,
+        "type": "Film and Television School",
+        "location": "Kawasaki, Kanagawa"
+      },
+      {
+        "control": "Film School",
+        "founded": "1921",
+        "cilect": "Yes",
+        "name": "Nihon University",
+        "country": "Japan",
+        "enrollment": null,
+        "type": "Research University",
+        "location": "Tokyo"
+      },
+      {
+        "control": "Film School",
+        "founded": null,
+        "cilect": "Yes",
+        "name": "University of Auckland",
+        "country": "New Zealand",
+        "enrollment": null,
+        "type": "Public University",
+        "location": "Auckland"
+      },
+      {
+        "control": "Film Institute",
+        "founded": "2003",
+        "cilect": "Yes",
+        "name": "University of the Philippines",
+        "country": "Philippines",
+        "enrollment": null,
+        "type": "Public University",
+        "location": "Manila"
+      },
+      {
+        "control": "Film School",
+        "founded": "2006",
+        "cilect": "Yes",
+        "name": "Nanyang Polytechnic",
+        "country": "Singapore",
+        "enrollment": null,
+        "type": "Polytechnic",
+        "location": "Singapore"
+      },
+      {
+        "control": "Film School",
+        "founded": "1992",
+        "cilect": "Yes",
+        "name": "Nanyang Technological University",
+        "country": "Singapore",
+        "enrollment": null,
+        "type": "Public University",
+        "location": "Singapore"
+      },
+      {
+        "control": "Film School",
+        "founded": "1989",
+        "cilect": "Yes",
+        "name": "Ngee Ann Polytechnic",
+        "country": "Singapore",
+        "enrollment": null,
+        "type": "Polytechnic",
+        "location": "Singapore"
+      },
+      {
+        "control": "Film School",
+        "founded": "2011",
+        "cilect": "Yes",
+        "name": "LASALLE_College_of_the_Arts",
+        "country": "Singapore",
+        "enrollment": null,
+        "type": "Public University",
+        "location": "Singapore"
+      },
+      {
+        "control": "Film School",
+        "founded": "1997",
+        "cilect": "Yes",
+        "name": "Dong-ah Institute of Media and Arts",
+        "country": "South Korea",
+        "enrollment": null,
+        "type": "Technical School",
+        "location": "Anseong"
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "control": "Private",
+        "founded": "2003",
+        "cilect": "No",
+        "name": "Prague Film School",
+        "country": "Czech Republic",
+        "enrollment": "100",
+        "type": "Film School",
+        "location": "Prague"
+      },
+      {
+        "control": "Private",
+        "founded": "2014",
+        "cilect": "No",
+        "name": "Roma Film Academy",
+        "country": "Italy",
+        "enrollment": "limited",
+        "type": "Film and Television School",
+        "location": "Rome"
+      },
+      {
+        "control": "Private",
+        "founded": "1972",
+        "cilect": "No",
+        "name": "International School of Audiovisual Creation and Realisation",
+        "country": "France",
+        "enrollment": null,
+        "type": "Film & Television School",
+        "location": "Paris"
+      },
+      {
+        "control": "Public University",
+        "founded": "1919",
+        "cilect": "Yes",
+        "name": "Gerasimov Institute of Cinematography",
+        "country": "Russia",
+        "enrollment": null,
+        "type": null,
+        "location": "Moscow"
+      },
+      {
+        "control": "Public Institution",
+        "founded": "1935",
+        "cilect": "Yes",
+        "name": "Centro Sperimentale di Cinematografia",
+        "country": "Italy",
+        "enrollment": null,
+        "type": null,
+        "location": "Rome"
+      },
+      {
+        "control": "Private Institution",
+        "founded": "2009",
+        "cilect": "No",
+        "name": "New York Film Academy",
+        "country": "Italy",
+        "enrollment": null,
+        "type": "Film school",
+        "location": "Florence"
+      },
+      {
+        "control": "Public University",
+        "founded": "1946",
+        "cilect": "Yes",
+        "name": "Film and TV School of The Academy of Performing Arts in Prague",
+        "country": "Czech Republic",
+        "enrollment": null,
+        "type": null,
+        "location": "Prague"
+      },
+      {
+        "control": "Public University",
+        "founded": "2004",
+        "cilect": "No",
+        "name": "Film School of the Aristotle University",
+        "country": "Greece",
+        "enrollment": null,
+        "type": null,
+        "location": "Thessaloniki"
+      },
+      {
+        "control": "Public University",
+        "founded": "1944",
+        "cilect": "Yes",
+        "name": "La Femis",
+        "country": "France",
+        "enrollment": null,
+        "type": null,
+        "location": "Paris"
+      },
+      {
+        "control": "Public University",
+        "founded": "1948",
+        "cilect": "Yes",
+        "name": "National Film School in Łódź",
+        "country": "Poland",
+        "enrollment": null,
+        "type": null,
+        "location": "Łódź"
+      },
+      {
+        "control": "Public University",
+        "founded": "1948",
+        "cilect": "Yes",
+        "name": "Krastyo Sarafov National Academy for Theatre and Film Arts",
+        "country": "Bulgaria",
+        "enrollment": null,
+        "type": null,
+        "location": "Sofia"
+      },
+      {
+        "control": "Public University",
+        "founded": "1952",
+        "cilect": "Yes",
+        "name": "Filmacademy Vienna",
+        "country": "Austria",
+        "enrollment": null,
+        "type": null,
+        "location": "Vienna"
+      },
+      {
+        "control": "Public College",
+        "founded": "1971",
+        "cilect": "Yes",
+        "name": "National Film and Television School",
+        "country": "United Kingdom",
+        "enrollment": null,
+        "type": null,
+        "location": "Beaconsfield"
+      },
+      {
+        "control": "Public University",
+        "founded": "1963",
+        "cilect": "Yes",
+        "name": "Bournemouth Film School",
+        "country": "United Kingdom",
+        "enrollment": "250",
+        "type": "Film School",
+        "location": "Bournemouth"
+      },
+      {
+        "control": "Public University",
+        "founded": "1971",
+        "cilect": "Yes",
+        "name": "Lisbon Theatre and Film School",
+        "country": "Portugal",
+        "enrollment": null,
+        "type": null,
+        "location": "Lisbon"
+      },
+      {
+        "control": "Public University",
+        "founded": "2004",
+        "cilect": "Yes",
+        "name": "Screen Academy Scotland",
+        "country": "Scotland",
+        "enrollment": null,
+        "type": null,
+        "location": "Edinburgh"
+      },
+      {
+        "control": null,
+        "founded": null,
+        "cilect": "No",
+        "name": "Film School in Pisek",
+        "country": "Czech Republic",
+        "enrollment": null,
+        "type": null,
+        "location": "Písek"
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "control": "Public university",
+        "founded": "1970",
+        "cilect": "No",
+        "name": "University of Regina - Dept. of Media Production & Studies",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Research university/H",
+        "location": "Regina, Saskatchewan"
+      },
+      {
+        "control": "Public University",
+        "founded": "1965",
+        "cilect": "No",
+        "name": "Simon Fraser University",
+        "country": "Canada",
+        "enrollment": "34000",
+        "type": "Research university/H",
+        "location": "Burnaby"
+      },
+      {
+        "control": "Public university",
+        "founded": "1841",
+        "cilect": "No",
+        "name": "Queen's University",
+        "country": "Canada",
+        "enrollment": "23,883",
+        "type": "Research university/VH",
+        "location": "Kingston, Ontario"
+      },
+      {
+        "control": "Private College",
+        "founded": "1928",
+        "cilect": "No",
+        "name": "Toronto Film School",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Diploma",
+        "location": "Toronto"
+      },
+      {
+        "control": "Public university",
+        "founded": "1948",
+        "cilect": "Yes",
+        "name": "Ryerson University",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Doctoral/research",
+        "location": "Toronto"
+      },
+      {
+        "control": "Public university",
+        "founded": "1876",
+        "cilect": "No",
+        "name": "Ontario College of Art & Design",
+        "country": "Canada",
+        "enrollment": "6,072",
+        "type": "Master's university/S",
+        "location": "Toronto"
+      },
+      {
+        "control": "Open",
+        "founded": "1995",
+        "cilect": "No",
+        "name": "Vancouver Institute of Media Arts (VanArts)",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Diploma",
+        "location": "Vancouver"
+      },
+      {
+        "control": "Private",
+        "founded": "1987",
+        "cilect": "No",
+        "name": "Vancouver Film School",
+        "country": "Canada",
+        "enrollment": null,
+        "type": null,
+        "location": "Vancouver"
+      },
+      {
+        "control": "Public College",
+        "founded": "1970",
+        "cilect": "No",
+        "name": "Langara College",
+        "country": "Canada",
+        "enrollment": "8,350",
+        "type": null,
+        "location": "Vancouver"
+      },
+      {
+        "control": "Public university",
+        "founded": "1908",
+        "cilect": "No",
+        "name": "University of British Columbia",
+        "country": "Canada",
+        "enrollment": "57,075",
+        "type": "Research university/VH",
+        "location": "Kelowna"
+      },
+      {
+        "control": "Public University",
+        "founded": "1925",
+        "cilect": "No",
+        "name": "Emily Carr University of Art and Design",
+        "country": "Canada",
+        "enrollment": "1,828",
+        "type": "Art & Design",
+        "location": "Vancouver"
+      },
+      {
+        "control": "Public university",
+        "founded": "1997",
+        "cilect": "No",
+        "name": "Mel Hoppenheim School of Cinema",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Doctoral/research",
+        "location": "Montreal"
+      },
+      {
+        "control": "Public Institution",
+        "founded": "1995",
+        "cilect": "No",
+        "name": "Gulf Islands Film and Television School (GIFTS)",
+        "country": "Canada",
+        "enrollment": null,
+        "type": "Certificate",
+        "location": "Galiano Island"
+      },
+      {
+        "control": "Public University",
+        "founded": "1967",
+        "cilect": "Yes",
+        "name": "Sheridan College",
+        "country": "Canada",
+        "enrollment": null,
+        "type": null,
+        "location": "Oakville, Ontario"
+      },
+      {
+        "control": "Public university",
+        "founded": "1959",
+        "cilect": "Yes",
+        "name": "York University Department of Film",
+        "country": "Canada",
+        "enrollment": "53,900",
+        "type": "Research university/H",
+        "location": "Toronto"
+      },
+      {
+        "control": "Public university",
+        "founded": "1968",
+        "cilect": "No",
+        "name": "Capilano University",
+        "country": "Canada",
+        "enrollment": "7,500",
+        "type": "Baccalaureate university",
+        "location": "North Vancouver"
+      },
+      {
+        "control": "Public University",
+        "founded": "1887",
+        "cilect": "No",
+        "name": "Nova Scotia College of Art and Design University",
+        "country": "Canada",
+        "enrollment": "971",
+        "type": null,
+        "location": "Halifax"
+      },
+      {
+        "control": "Public comprehensive",
+        "founded": "1964",
+        "cilect": "No",
+        "name": "Red Deer College",
+        "country": "Canada",
+        "enrollment": "7,000",
+        "type": null,
+        "location": "Red Deer, Alberta"
+      },
+      {
+        "control": "Public university",
+        "founded": "1916",
+        "cilect": "No",
+        "name": "SAIT Polytechnic",
+        "country": "Canada",
+        "enrollment": "17,516",
+        "type": "Baccalaureate university",
+        "location": "Calgary"
+      },
+      {
+        "control": "Public university",
+        "founded": "1969",
+        "cilect": "Yes",
+        "name": "Université du Québec à Montréal",
+        "country": "Canada",
+        "enrollment": "41,296",
+        "type": "Research university/H",
+        "location": "Montreal"
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "Yes",
+        "name": "University of São Paulo",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": "Research university/VH",
+        "location": "São Paulo"
+      },
+      {
+        "control": "Public University",
+        "founded": "2005",
+        "cilect": "No",
+        "name": "Federal University of Santa Catarina",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Florianópolis"
+      },
+      {
+        "control": "Private",
+        "founded": null,
+        "cilect": "No",
+        "name": "Pontifical Catholic University of Rio de Janeiro",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Rio de Janeiro"
+      },
+      {
+        "control": "Private",
+        "founded": null,
+        "cilect": "No",
+        "name": "Pontifical Catholic University of Rio Grande do Sul",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Porto Alegre"
+      },
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "Yes",
+        "name": "State University of Campinas",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Campinas"
+      },
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "No",
+        "name": "Fluminense Federal University",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Rio de Janeiro"
+      },
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "No",
+        "name": "Federal University of Minas Gerais",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Belo Horizonte"
+      },
+      {
+        "control": "Private",
+        "founded": null,
+        "cilect": "No",
+        "name": "Estácio de Sá University",
+        "country": "Brazil",
+        "enrollment": null,
+        "type": null,
+        "location": "Rio de Janeiro"
+      },
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "No",
+        "name": "University of Chile",
+        "country": "Chile",
+        "enrollment": null,
+        "type": "Research university/VH",
+        "location": "Santiago"
+      },
+      {
+        "control": "Private",
+        "founded": null,
+        "cilect": "No",
+        "name": "University for the Arts, Sciences, and Communication",
+        "country": "Chile",
+        "enrollment": null,
+        "type": null,
+        "location": null
+      },
+      {
+        "control": "Private University",
+        "founded": null,
+        "cilect": "No",
+        "name": "Audiovisual Arts School of the Universidad Autónoma de Bucaramanga, UNAB",
+        "country": "Colombia",
+        "enrollment": null,
+        "type": null,
+        "location": null
+      },
+      {
+        "control": "Public University",
+        "founded": null,
+        "cilect": "Yes",
+        "name": "Film and TV School of the National University of Colombia",
+        "country": "Colombia",
+        "enrollment": null,
+        "type": "Research university/VH",
+        "location": null
+      },
+      {
+        "control": "Open University",
+        "founded": null,
+        "cilect": "No",
+        "name": "Iberoamerican Documentary Film School",
+        "country": "Venezuela",
+        "enrollment": null,
+        "type": null,
+        "location": "Mérida"
+      },
+      {
+        "control": "Private",
+        "founded": null,
+        "cilect": "No",
+        "name": "Escuela Nacional de Cine",
+        "country": "Venezuela",
+        "enrollment": null,
+        "type": null,
+        "location": "Caracas"
+      }
+    ]
+  }
+]
